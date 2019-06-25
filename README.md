@@ -1,2 +1,0 @@
-# CalomaCoffee
-C# Final Project
